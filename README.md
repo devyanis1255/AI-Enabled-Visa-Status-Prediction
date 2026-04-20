@@ -67,11 +67,7 @@ npm run dev
 ```
 *Your Ultra-Premium predictive dashboard will now be fully active and operational at `http://localhost:5173`!*
 
----
 
-## 📜 Legacy Configuration
-For archival tracking purposes, the original flat-state Streamlit application architecture is preserved via earlier codebase instances at:
-https://ai-enabled-visa-status-prediction.streamlit.app/
 
 ## 🛡️ License
 This project complies under standard `LICENSE` protections automatically associated within this GitHub structure.
